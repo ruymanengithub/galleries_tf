@@ -40,14 +40,14 @@ MAPw = 400
 MAPh = 400
 
 
-Intro=["In the atlantic island of Tenerife (Canary Islands), ~80% of the water resources are obtained from the ground, and of these"+\
-" ~65% come through water galleries (~1/2 of the total hydric resources). Here we display data on the water flows, locations and other parameters of these galleries "+\
+Intro=["In the atlantic island of Tenerife (Canary Islands), ~80% of the water resources are obtained from the underground, and of these resources"+\
+" ~65% come through water galleries (~50% of the total hydric resources). Here we display data on the water flows, locations and other parameters of these galleries "+\
 "in the period 1975-2015, together with the demographic and rainfall evolution in the same period, segregated by municipalities. ",html.Br(),html.Br(),
 "The data on the galleries has been obtained from ", 
 html.A("Consejo Insular de Aguas de Tenerife",href="https://ciatf.maps.arcgis.com/apps/webappviewer/index.html?id=8d42d177780043e89d9824cee2166995"),
 ".",html.Br(),
 "Population data coming from ",
-html.A("Instituto Canario de Estadística (ISTAC.",href="www.gobiernodecanarias.org/istac"),html.Br(),
+html.A("Instituto Canario de Estadística (ISTAC).",href="www.gobiernodecanarias.org/istac"),html.Br(),
 "Rainfall data coming from ",
 html.A("Agrocabildo.",href="http://www.agrocabildo.org/analisis_climatico.asp")
 ]
