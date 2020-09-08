@@ -1,0 +1,41 @@
+{
+    "MUNICIPIOS": [
+        "ADEJE",
+        "ARAFO",
+        "ARICO",
+        "ARONA",
+        "BUENAVISTA DEL NORTE",
+        "CANDELARIA",
+        "EL ROSARIO",
+        "EL TANQUE",
+        "FASNIA",
+        "GARACHICO",
+        "GRANADILLA DE ABONA",
+        "GUÍA DE ISORA",
+        "GÜÍMAR",
+        "ICOD DE LOS VINOS",
+        "LA GUANCHA",
+        "LA LAGUNA",
+        "LA MATANZA DE ACENTEJO",
+        "LA OROTAVA",
+        "LA VICTORIA DE ACENTEJO",
+        "LOS REALEJOS",
+        "LOS SILOS",
+        "PUERTO DE LA CRUZ",
+        "SAN JUAN DE LA RAMBLA",
+        "SAN MIGUEL DE ABONA",
+        "SANTA CRUZ DE TENERIFE",
+        "SANTA ÚRSULA",
+        "SANTIAGO DEL TEIDE",
+        "SAUZAL",
+        "TACORONTE",
+        "TEGUESTE",
+        "VILAFLOR"
+        ],
+    "GAL_SUBTYPES": {
+        "Convencional":"Conventional",
+        "Naciente":"Spring",
+        "Pozo": "Well",
+        "Socavon": "Sinkhole"
+    }
+}
