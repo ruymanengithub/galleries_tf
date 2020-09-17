@@ -40,9 +40,27 @@ MAPw = 400
 MAPh = 400
 
 
-Intro=["In the atlantic island of Tenerife (Canary Islands), ~80% of the water resources are obtained from the underground, and of these resources"+\
-" ~65% come through water galleries (~50% of the total hydric resources). Here we display data on the water flows, locations and other parameters of these galleries "+\
-"in the period 1975-2015, together with the demographic and rainfall evolution in the same period, segregated by municipalities. ",html.Br(),html.Br(),
+Intro=["In the atlantic island of Tenerife (Canary Islands), ~80% of the water resources are obtained "+\
+"from the underground. The rest comes mostly from desalination and water treatment. And of"+\
+" these underground resources ~65% come through water galleries (~50% of the total hydric resources)."+\
+" Here we display data on the water flows, locations and other parameters of these galleries "+\
+"in the period 1975-2015, together with the demographic and rainfall evolution in the same period,"+\
+" segregated by municipalities (in a serious study one should use water basins as demarcations, "+\
+" but perhaps organizing the data like this makes it easier to understand to the non-expert, like me!). ",
+html.Br(),
+"We can see that there has been a very marked downwards evolution in the total output of these "+\
+"galleries (a ~50% drop overall), which anticorrelates with a substantial increase in population "+\
+"in the same period (almost doubling). The (admitedly crude) rain trend map, on the other hand, "+\
+"does not show a clear trend. One important caveat here: to explore, seriously, possible changes in"+\
+" rainfall one should first find a better data-base than what we have used here, and also look at "+\
+"longer temporal baselines. But we have added this map nonetheless, just to show that it is"+\
+" not like it rains 2 times less than 40 years ago... ",html.Br(),html.Br(),
+"Seeing all these plots together, it makes us think"+\
+" that the decrease in water output may be a sign of progressive aquifer exhaustion. "+\
+"And so one would be tempted to predict that the dependency of the island on water desalination can"+\
+" only increase in the coming decades, if the demographic and agriculture pressures on the"+\
+" water resources are kept at the current levels.",
+html.Br(),html.Br(),
 "The data on the galleries has been obtained from ", 
 html.A("Consejo Insular de Aguas de Tenerife",href="https://ciatf.maps.arcgis.com/apps/webappviewer/index.html?id=8d42d177780043e89d9824cee2166995"),
 ".",html.Br(),
